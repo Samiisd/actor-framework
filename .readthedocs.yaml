@@ -14,3 +14,6 @@ python:
 
 sphinx:
   configuration: manual/conf.py
+
+formats:
+  - pdf
